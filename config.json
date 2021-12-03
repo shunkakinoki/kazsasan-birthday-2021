@@ -1,0 +1,53 @@
+{
+   "name":"Kazsa-san Birthday #001",
+   "symbol":"KAZSA",
+   "description":"Kazsa-san Birthday NFT",
+   "seller_fee_basis_points":500,
+   "image":"https://arweave.net/iNtr5Raflf7ccaH6kVv6jj2yzb52W4nhcgS7nzlDN8Q",
+   "external_url":"zypsy.com",
+   "edition":"2021",
+   "attributes":[
+      {
+         "trait_type":"hair",
+         "value":"grass"
+      },
+      {
+         "trait_type":"background",
+         "value":"Tech House"
+      },
+      {
+         "display_type":"number",
+         "trait_type":"generation",
+         "value":1
+      },
+      {
+         "display_type":"number",
+         "trait_type":"sequence",
+         "value":1
+      },
+      {
+         "trait_type":"type",
+         "value": "***"
+      }
+   ],
+   "properties":{
+      "category":"video",
+      "files":[
+         {
+            "uri":"https://arweave.net/jGmxhFDhI9-x8g5WfQj5jV9ZABngBdNjTmYa_YL0Xus",
+            "type":"video/mp4"
+         },
+         {
+            "uri": "https://watch.videodelivery.net/52a52c4a261c88f19d267931426c9be6",
+            "type": "unknown",
+            "cdn": true
+         }
+      ],
+      "creators":[
+         {
+            "address":"8UzXfaYwHJaRecJdieNYrX8qcPFuEYcL2znMckEKHpCC",
+            "share":100
+         }
+      ]
+   }
+}
